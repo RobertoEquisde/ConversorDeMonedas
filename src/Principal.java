@@ -88,6 +88,5 @@ public class Principal {
                 opcion = 0; // Establece opcion a 0 para evitar bucle infinito
             }
         }while (opcion != 7);
-        System.out.println("Muchas gracias por usar el conversor de monedas :D !!!");
     }
 }
