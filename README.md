@@ -52,3 +52,8 @@ El programa presenta un menú con las siguientes opciones:
 7. Salir
 
 El programa solicitará que ingreses la cantidad a convertir según la opción seleccionada y luego mostrará el resultado de la conversión.
+## Capturas de Pantalla
+
+A continuación se muestran algunas capturas de pantalla del programa:
+
+![Conversor de Moneda](images/screenshot.png)
