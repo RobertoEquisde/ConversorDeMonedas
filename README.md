@@ -56,11 +56,11 @@ El programa solicitará que ingreses la cantidad a convertir según la opción s
 
 A continuación se muestran algunas capturas de pantalla del programa:
 
-## MENU
+### MENU
 ![Conversor de Moneda](images/screenshot.png)
-## conversiones de USD  y ARG
+### conversiones de USD  y ARG
 ![Conversor de Moneda](images/arg.png)
-## conversiones USD Y BRL
+### conversiones USD Y BRL
 ![Conversor de Moneda](images/brl.png)
-## converseiones USD y COP
+### converseiones USD y COP
 ![Conversor de Moneda](images/cop.png)
