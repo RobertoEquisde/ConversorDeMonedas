@@ -13,7 +13,7 @@ Para ejecutar este programa, necesitarás tener instalado:
 1. Clona este repositorio en tu máquina local:
 
     ```bash
-    git clone https://github.com/tu_usuario/conversor-de-moneda.git
+    git clone https://github.com/RobertoEquisde/ConversorDeMonedas
     ```
 
 2. Navega hasta el directorio del proyecto:
